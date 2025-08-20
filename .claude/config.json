@@ -1,0 +1,13 @@
+{
+  "systemPrompt": "You are a helpful coding assistant working on this project.",
+  "maxTurns": 10,
+  "allowedTools": [
+    "Bash",
+    "Read",
+    "Write",
+    "Edit",
+    "Grep",
+    "Glob"
+  ],
+  "permissionMode": "ask"
+}
